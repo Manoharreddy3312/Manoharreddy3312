@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manohar Reddy.M</h1>
-<h3 align="center">A passionate Full Stack Python developer from India</h3>
+<h3 align="center">A passionate Full Stack Python developer from Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoharreddy3312&label=Profile%20views&color=0e75b6&style=flat" alt="manoharreddy3312" /> </p>
 
