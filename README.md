@@ -99,8 +99,10 @@
 
 ## 💡 Developer Quote  
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=FF00FF&center=true&vCenter=true&width=600&lines=First+solve+the+problem...;Then+write+the+code 💻" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
