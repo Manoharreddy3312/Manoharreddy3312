@@ -1,7 +1,7 @@
 🚀 Manohar Reddy
-💻 Frontend Developer | Django Enthusiast | Full Stack Learner
+💻 Frontend Developer | Django Enthusiast | Full Stack Developer
 ✨ Animated Intro
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Manohar+Reddy;Frontend+Developer;Django+Learner;Full+Stack+Enthusiast;Building+Real+World+Projects🚀" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Manohar+Reddy;Frontend+Developer;Django+Develor;Full+Stack+Enthusiast;Building+Real+World+Projects🚀" /> </p>
 👋 About Me
 🌱 Currently learning Python, Django, PostgreSQL
 👨‍💻 All projects: 👉 https://github.com/Manoharreddy3312
