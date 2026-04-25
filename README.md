@@ -15,3 +15,25 @@
 <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" /> </p>
 ⚡ Optional (Visitor Counter Animation)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manoharreddy3312&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manoharreddy3312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoharreddy3312&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Manoharreddy3312&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manoharreddy3312&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manoharreddy3312&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoharreddy3312&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Manoharreddy3312&theme=tokyonight&hide_border=true" />
+</p>
