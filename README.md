@@ -1,4 +1,15 @@
-<p align="left"> <a href="https://github.com/Manoharreddy3312" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /> </a> <a href="mailto:mosarlamanoharreddy2@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+🚀 Manohar Reddy
+
+Frontend Developer | Django Enthusiast | Full Stack Learner
+
+👋 About Me
+🌱 Currently learning Python, Django, PostgreSQL
+👨‍💻 All projects: 👉 https://github.com/Manoharreddy3312
+💬 Ask me about HTML, CSS, JavaScript, TypeScript, React.js
+📫 Reach me: mosarlamanoharreddy2@gmail.com
+📄 Resume: https://getshared.com/d/5O5UN6P2
+⚡ Fun fact: My code works perfectly… until someone is watching 👀
+🌐 Connect With Me
 <p align="left"> <a href="https://github.com/Manoharreddy3312" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /> </a> <a href="mailto:mosarlamanoharreddy2@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 🛠️ Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,django,postgresql,html,css,js,ts,react,git,github,vscode" /> </p>
